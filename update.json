@@ -1,8 +1,8 @@
 {
-  "version": "0.3.15",
+  "version": "0.3.16",
   "installer": "https://github.com/ScorpionDarkZx/sanrephone/releases/latest/download/SanrePhone-Setup.exe",
-  "sha256": "25d8cba4310f93aac2551b4bdfcaf3c0e0b15b50f9ff9038744bb6631e91a40b",
-  "notes": "O próprio ramal some da lista de Ramais e o rodapé mostra Nome · Online · Ramal.",
+  "sha256": "5ebc1cb7713e253d174e4ed3f938bddf50368bca907f4b659df6b148995b2d43",
+  "notes": "Status Online, Ausente e Offline; presença na rede mais estável (sem o pisca-pisca).",
   "mandatory": false,
   "published": "2026-11-16"
 }
