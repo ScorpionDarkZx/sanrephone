@@ -1,8 +1,8 @@
 {
-  "version": "0.3.13",
+  "version": "0.3.14",
   "installer": "https://github.com/ScorpionDarkZx/sanrephone/releases/latest/download/SanrePhone-Setup.exe",
-  "sha256": "3afdf5eee3bf36877d52691c78e3c17c97d573d221b0cc84189b71a331bbb7ca",
-  "notes": "Som ao terminar a chamada, abrir com o Windows, textos revisados e novo visual das configurações.",
+  "sha256": "de9c42668c80a0445a4044cb095160b4db77904ac02d97bf45deaa2a31e08ada",
+  "notes": "Menu de configurações em submenus, endereço de atualização corrigido.",
   "mandatory": false,
   "published": "2026-11-16"
 }
