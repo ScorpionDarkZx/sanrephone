@@ -1,8 +1,8 @@
 {
-  "version": "0.3.17",
+  "version": "0.3.18",
   "installer": "https://github.com/ScorpionDarkZx/sanrephone/releases/latest/download/SanrePhone-Setup.exe",
-  "sha256": "0e1b7f33fa3cc57427e75111e61fef2e289b2fd7404fccaf28d08349858e7a2d",
-  "notes": "O status (Online/Ausente) agora se muda clicando só na bolinha do rodapé.",
+  "sha256": "732b16755213e695358cbfbaf4a64804d53006381d115e7aa604ca9c0542ace2",
+  "notes": "Novo visual: cartão de chamada compacto, teclado grande, caixa de notificações, logo nítida, branco mais vivo e transferência com um clique pela lista de ramais.",
   "mandatory": false,
   "published": "2026-11-16"
 }
