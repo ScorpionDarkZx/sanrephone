@@ -1,8 +1,8 @@
 {
-  "version": "0.3.18",
+  "version": "0.3.19",
   "installer": "https://github.com/ScorpionDarkZx/sanrephone/releases/latest/download/SanrePhone-Setup.exe",
-  "sha256": "732b16755213e695358cbfbaf4a64804d53006381d115e7aa604ca9c0542ace2",
-  "notes": "Novo visual: cartão de chamada compacto, teclado grande, caixa de notificações, logo nítida, branco mais vivo e transferência com um clique pela lista de ramais.",
+  "sha256": "345c80e15d156217b824fe83a0c3c5e997d3319e1eb08454c5b2a8c3d880f9c8",
+  "notes": "Ao atender uma chamada, o app aparece na frente. Limpeza interna do código.",
   "mandatory": false,
   "published": "2026-11-16"
 }
