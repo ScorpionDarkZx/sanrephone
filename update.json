@@ -1,8 +1,8 @@
 {
-  "version": "0.3.12",
+  "version": "0.3.13",
   "installer": "https://github.com/ScorpionDarkZx/sanrephone/releases/latest/download/SanrePhone-Setup.exe",
-  "sha256": "424c9b0003fa034513f1436e4d2e99916834e944fc7eaee1ee8549be8e6416bf",
-  "notes": "Presença e nome de quem liga pela rede local, janela abre no tamanho mínimo, sino de notificações.",
+  "sha256": "3afdf5eee3bf36877d52691c78e3c17c97d573d221b0cc84189b71a331bbb7ca",
+  "notes": "Som ao terminar a chamada, abrir com o Windows, textos revisados e novo visual das configurações.",
   "mandatory": false,
   "published": "2026-11-16"
 }
