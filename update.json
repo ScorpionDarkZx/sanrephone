@@ -1,0 +1,8 @@
+{
+  "version": "0.3.12",
+  "installer": "https://github.com/ScorpionDarkZx/sanrephone/releases/latest/download/SanrePhone-Setup.exe",
+  "sha256": "424c9b0003fa034513f1436e4d2e99916834e944fc7eaee1ee8549be8e6416bf",
+  "notes": "Presença e nome de quem liga pela rede local, janela abre no tamanho mínimo, sino de notificações.",
+  "mandatory": false,
+  "published": "2026-11-16"
+}
