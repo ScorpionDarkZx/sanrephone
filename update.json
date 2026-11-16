@@ -1,8 +1,8 @@
 {
-  "version": "0.3.16",
+  "version": "0.3.17",
   "installer": "https://github.com/ScorpionDarkZx/sanrephone/releases/latest/download/SanrePhone-Setup.exe",
-  "sha256": "5ebc1cb7713e253d174e4ed3f938bddf50368bca907f4b659df6b148995b2d43",
-  "notes": "Status Online, Ausente e Offline; presença na rede mais estável (sem o pisca-pisca).",
+  "sha256": "0e1b7f33fa3cc57427e75111e61fef2e289b2fd7404fccaf28d08349858e7a2d",
+  "notes": "O status (Online/Ausente) agora se muda clicando só na bolinha do rodapé.",
   "mandatory": false,
   "published": "2026-11-16"
 }
