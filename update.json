@@ -1,8 +1,8 @@
 {
-  "version": "0.3.20",
+  "version": "0.3.21",
   "installer": "https://github.com/ScorpionDarkZx/sanrephone/releases/latest/download/SanrePhone-Setup.exe",
-  "sha256": "bf95bb4f7b7f5ec68c9f7aca832e2753638bd15de07f74198c3790b96f084907",
-  "notes": "Aviso de atualização no sino e verificação automática a cada hora.",
+  "sha256": "79a22a60187fb827673f2c13464f921f544645565aa25b1ca016c1d109b6a0ac",
+  "notes": "Toque de chamada em outro dispositivo (ex.: caixas de som) com a ligação no fone, e correção da rolagem da lista de ramais.",
   "mandatory": false,
-  "published": "2026-11-16"
+  "published": "2026-11-17"
 }
