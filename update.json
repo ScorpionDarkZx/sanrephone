@@ -1,8 +1,8 @@
 {
-  "version": "0.3.21",
+  "version": "0.3.22",
   "installer": "https://github.com/ScorpionDarkZx/sanrephone/releases/latest/download/SanrePhone-Setup.exe",
-  "sha256": "79a22a60187fb827673f2c13464f921f544645565aa25b1ca016c1d109b6a0ac",
-  "notes": "Toque de chamada em outro dispositivo (ex.: caixas de som) com a ligação no fone, e correção da rolagem da lista de ramais.",
+  "sha256": "8be115b478cb5f7aea02a5614b5448d9008feb7b0fbb3417e05c6be0e6899614",
+  "notes": "Presença simplificada: cada ramal aparece Online (app aberto e conectado) ou Offline.",
   "mandatory": false,
   "published": "2026-11-17"
 }
