@@ -1,8 +1,8 @@
 {
-  "version": "0.3.24",
+  "version": "0.3.25",
   "installer": "https://github.com/ScorpionDarkZx/sanrephone/releases/latest/download/SanrePhone-Setup.exe",
-  "sha256": "5ffd9f7bc36a8136f7d2de857ff2395f482305f7dde44ffdd613533461153240",
-  "notes": "Fotos dos ramais (pasta no PC ou na rede), lista de ramais mais limpa (só a bolinha de status) e gravação liberada pelo cadastro do ramal na Zenvia.",
+  "sha256": "814dce567ac6b5e667b23d356ee785cddf07edd11e2b92a56e5f1c260a9956bd",
+  "notes": "Tocar no aviso de nova versão no sino abre direto a tela de atualização. A gravação local de chamadas foi removida (a gravação fica por conta da Zenvia).",
   "mandatory": false,
   "published": "2026-11-18"
 }
