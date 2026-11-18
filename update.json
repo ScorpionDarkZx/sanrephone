@@ -1,8 +1,8 @@
 {
-  "version": "0.3.23",
+  "version": "0.3.24",
   "installer": "https://github.com/ScorpionDarkZx/sanrephone/releases/latest/download/SanrePhone-Setup.exe",
-  "sha256": "e5a78c16d4c5cafc7a2227bb7823d3799b1a55f04dc472a1568889623bab5421",
-  "notes": "Corrige o teclado que aparecia estranho ao abrir o app e deixa a sincronização com a Zenvia silenciosa quando nada mudou.",
+  "sha256": "5ffd9f7bc36a8136f7d2de857ff2395f482305f7dde44ffdd613533461153240",
+  "notes": "Fotos dos ramais (pasta no PC ou na rede), lista de ramais mais limpa (só a bolinha de status) e gravação liberada pelo cadastro do ramal na Zenvia.",
   "mandatory": false,
-  "published": "2026-11-17"
+  "published": "2026-11-18"
 }
