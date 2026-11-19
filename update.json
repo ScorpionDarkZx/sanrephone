@@ -1,8 +1,8 @@
 {
-  "version": "0.3.25",
+  "version": "0.3.26",
   "installer": "https://github.com/ScorpionDarkZx/sanrephone/releases/latest/download/SanrePhone-Setup.exe",
-  "sha256": "814dce567ac6b5e667b23d356ee785cddf07edd11e2b92a56e5f1c260a9956bd",
-  "notes": "Tocar no aviso de nova versão no sino abre direto a tela de atualização. A gravação local de chamadas foi removida (a gravação fica por conta da Zenvia).",
+  "sha256": "fedee45c62432aa6a4c66dd141b257b8311666bafa1b04aeaf41fede3702dfa8",
+  "notes": "Visor do microfone e do áudio no rodapé durante a ligação (com aviso de mutado), fone ligado com o app aberto passa a ser reconhecido sozinho e o rodapé não mostra mais o ramal.",
   "mandatory": false,
-  "published": "2026-11-18"
+  "published": "2026-11-19"
 }
